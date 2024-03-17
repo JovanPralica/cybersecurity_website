@@ -1,0 +1,905 @@
+.pre-header{
+    background-color: #111618;
+    height: 60px;
+}
+
+.pre-header .under-attack h4{
+    color: white;
+    font-size: 11px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.pre-header .navbar ul li{
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 11px;
+}
+
+.pre-header .navbar ul li a{
+    display: inline-block;
+}
+
+.pre-header .navbar .twitter-logo{
+    color: blue;
+}
+
+.pre-header .navbar ul li a{
+    text-decoration: none;
+    color: gray;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.header .logo{
+    margin-top: 25px;
+}
+
+.header .navbar2 ul li{
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 11px;
+}
+
+.header .navbar2 ul li a{
+    display: inline-block;
+}
+
+.header .navbar2 ul li a{
+    text-decoration: none;
+    color: gray;
+    margin: 14.2px;
+    font-weight: bold;
+}
+
+.header .navbar2 .freequote-button{
+    color: white;
+    font-size: 12px;
+    background-color: #5923ef;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.header .navbar2 .freequote-button:hover{
+    background-color:#3756f5;
+}
+
+.hero{
+    background-image: url('header-home01-header.jpg');
+    padding-bottom: 100px;
+    background-size: cover;
+}
+
+.hero h1{
+    padding-top: 165px;
+    margin-left: 120px;
+    font-size: 55px;
+    color: white;
+}
+
+.hero h4{
+    margin-left: 120px;
+    margin-top: 30px;
+    color: white;
+}
+
+.hero p{
+    margin-left: 120px;
+    margin-top: 35px;
+    color: white;
+    background-color: #5923ef;
+    font-size: 15px;
+    display: inline-block;
+    padding: 15px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.hero p:hover{
+    background-color:#3756f5;
+}
+
+.services{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.services h4{
+    color: #3c31df;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.services h1{
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 39px;
+}
+
+.services p{
+    margin-top: 15px;
+    color: #8b8b8b;
+    font-size: 15px;
+}
+
+.services .threat-blocks{
+    margin-top: 100px;
+}
+
+.services .threat-blocks .threat-block-1:hover{
+    margin-top: -25px;
+}
+
+.services .threat-blocks .threat-block-1{
+    background-color: #252728;
+    color: white;
+    padding-bottom: 50px;
+    transition: 0.5s;
+}
+
+.services .threat-blocks .threat-block-1:hover{
+    background-color: #530082;
+}
+
+.services .threat-blocks .threat-block-1 p{
+    color: #b7b8b9;
+    margin-top: 25px;
+}
+
+.services .threat-blocks .threat-block-1:hover{
+    margin-bottom: -25px;
+}
+
+.services .threat-blocks .threat-block-1 a{
+    text-decoration: none;
+}
+
+.services .threat-blocks .threat-block-1 a p{
+    margin-top: 25px;
+    display: inline-block;
+    padding: 5px;
+    border: 3px solid white;
+    font-weight: bold;
+    color: white;
+}
+
+.experience-safety{
+    text-align: center;
+    margin-top: 250px;
+    background-image: url("background\ picture\ waves.jpg");
+    background-size: cover;
+    padding-top: 130px;
+}
+
+.experience-safety h4{
+    font-size: 15px;
+    color: #2555c9;
+}
+
+.experience-safety h1{
+    font-size: 35px;
+    margin-top: 35px;
+    color: white;
+}
+
+.experience-safety p{
+    font-size:15px;
+    margin-top: 25px;
+    color: white;
+}
+
+.experience-safety .videoimage{
+    width: 1170px;
+    height: 550px;
+}
+
+.customers-say{
+    margin-top: 150px;
+}
+
+.customers-say h2{
+    font-size: 25px;
+    margin-left: 68px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+}
+
+.customers-say h2:after{
+    content: "";
+    width: 8px;
+    height: 8px;
+    background-color: #3756f5;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.customers{
+    margin-left: 130px;
+    margin-top: 35px;
+}
+
+.customers h2{
+    font-size: 20px;
+}
+
+.customers h4{
+    font-size: 15px;
+}
+
+.customers .profile-1{
+    height: 389px;
+    width: 300px;
+    background-image: url('testimonial-O6YV3J0-370x370.jpg');
+    background-size: cover;
+    background-color:rgba(0,0,0,0.5);
+
+}
+
+.customers .profile-1 h2{
+    color: white;
+    padding-top: 300px;
+    padding-left: 20px;
+}
+
+.customers .profile-1 h4{
+    color: gray;
+    padding-left: 20px;
+}
+
+.customers .profile-1 .profile-1-overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.customers .profile-2{
+    height: 389px;
+    width: 300px;
+    background-image: url('testimonial-677993-PPUB4P-401-370x370.jpg');
+    background-size: cover;
+
+}
+
+.customers .profile-2 h2{
+    color: white;
+    padding-top: 300px;
+    padding-left: 20px;
+}
+
+.customers .profile-2 h4{
+    color: gray;
+    padding-left: 20px;
+}
+
+.customers .profile-2 .profile-2-overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.customers .profile-3{
+    background-image: url('testimonial-O70LL00-370x370.jpg');
+    background-size: cover;
+    height: 389px;
+    width: 300px;
+
+}
+
+.customers .profile-3 h2{
+    color: white;
+    padding-top: 300px;
+    padding-left: 20px;
+}
+
+.customers .profile-3 h4{
+    color: gray;
+    padding-left: 20px;
+}
+
+
+.customers .profile-3 .profile-3-overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+
+.customers .profile-4{
+    height: 389px;
+    width: 300px;
+    background-image: url('testimonial-631643-PO9AAH-590-370x370.jpg');
+    background-size: cover;
+
+}
+
+.customers .profile-4 h2{
+    color: white;
+    padding-top: 300px;
+    padding-left: 20px;
+}
+
+.customers .profile-4 h4{
+    color: gray;
+    padding-left: 20px;
+}
+
+.customers .profile-4 .profile-4-overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.about-us{
+    margin-top: 240px;
+    padding-top: 120px;
+    padding-bottom: 140px;
+}
+
+.about-us h4{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+}
+
+.about-us h4:before{
+    content: "";
+    height: 10px;
+    width: 10px;
+    background-color: #2555c9;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.about-us h1{
+    font-size: 35px;
+    margin-top: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+.about-us p{
+    color: white;
+}
+
+.about-us ul{
+    margin-top: 20px;
+    display: inline-block;
+    color: white;
+}
+
+.about-us li{
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+}
+
+.about-us{
+    background-image: url('home2-bg-contacts.jpg')
+}
+
+.about-us{
+    background-size: cover;
+}
+
+.school-section{
+    text-align: center;
+}
+
+.school-section h4{
+    font-size: 15px;
+    margin-top: 105px;
+    color: #3756f5;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+}
+
+.school-section h1{
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.school-section p{
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.ddos-protection{
+    text-align: center;
+    margin-top: 80px;
+    background-image: url('event-25060-1170x641.jpg');
+    background-size: cover;
+    margin-left: 370px;
+    margin-right: 370px;
+    height: 600px;
+}
+
+.ddos-protection ul li{
+    margin-top: 75px;
+}
+
+.ddos-protection ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 30px;
+    color: white;
+}
+
+.ddos-protection ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    background-color:#3c31df;
+    color: white;
+    font-size: 12px;
+    padding: 4px;
+    transition: 0.2s;
+    margin-right: 10px;
+    height: 510px;
+    width:1750px;
+}
+
+.ddos-protection ul li a:hover{
+    background-color: #3756f5;
+}
+
+.ddos-protection ul li p{
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+}
+
+.ddos-protection .timer{
+    margin-left: 20px;
+    font-size: 60px;
+    margin-top: 25px;
+    border: 1px solid white;
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+}
+
+.ddos-protection .protection{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.ddos-protection .protection h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.ddos-protection .protection p{
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.ddos-protection .protection a{
+    background-color: #5923ef;
+    font-weight: bold;
+    color: white;
+    transition: 0.2s;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.ddos-protection .protection a:hover{
+    background-color: #3756f5;
+
+}
+
+.ddos-protection .ddos-protection-overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.website-hacked{
+    text-align: center;
+    margin-top: 245px;
+    background-image: url('home2-bg-contacts.jpg');
+    background-size: cover;
+    padding-top: 120px;
+    padding-bottom: 150px;
+}
+
+
+.website-hacked .main-input .main-input-overlay{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.website-hacked .upper-text{
+    margin-bottom: 50px;
+}
+
+.website-hacked .upper-text h1{
+    font-size: 40px;
+    color: white;
+}
+
+.website-hacked .upper-text h4{
+    font-size: 15px;
+    margin-top: 20px;
+    color: white;
+}
+
+.website-hacked .main-input .info{
+    margin-right: 20px;
+}
+
+.website-hacked .main-input .info h4{
+    margin-top: 65px;
+    font-size: 17px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+    text-align: left;
+    margin-left: 120px;
+    font-weight: bold;
+    color: white;
+}
+
+.website-hacked .main-input .info h4:before{
+    content: "";
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color:#3756f5;
+    margin-right: 10px;
+}
+
+.website-hacked .main-input .info h1{
+    font-size: 22px;
+    margin-left: 120px;
+    text-align: left;
+    margin-top: 40px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.website-hacked .main-input .info p{
+    text-align: left;
+    margin-left: 120px;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.website-hacked .main-input .info p:before{
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    background-color: #fff;
+}
+
+.website-hacked .main-input .info ul li{
+    text-align: left;
+    margin-left: 120px;
+    color: white;
+}
+
+.website-hacked .many-inputs{
+    margin-left: 100px;
+    margin-top: 3px;
+}
+
+.website-hacked .many-inputs input{
+    height: 80px;
+    width: 735px;
+}
+
+.website-hacked .many-inputs p{
+    text-align: left;
+    margin-top: 130px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.website-hacked .main-input .name-lastname{
+    text-align: left;
+    margin-left: 65px;
+}
+
+.website-hacked .main-input .name-lastname p{
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: white;
+}
+
+.website-hacked .main-input .name-lastname input{
+    width: 350px;
+    height: 40px;
+}
+
+.website-hacked .main-input .phone-message{
+    text-align: left;
+    margin-left: 67px;
+    margin-top: 15px;
+}
+
+
+.website-hacked .main-input .phone-message p{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.website-hacked .main-input .phone-message input{
+    width: 347px;
+    height: 40px;
+}
+
+.website-hacked .main-input .phone-message .button{
+    margin-top: 50px;
+    margin-left: 105px;
+}
+
+.website-hacked .main-input .phone-message .button a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    background-color: #3756f5;
+    transition: 0.2s;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.website-hacked .main-input .phone-message .button a:hover{
+    background-color: #5923ef;
+}
+
+.website-hacked .main-info-type{
+    background-color: rgba(0,0,0,0.5);
+    padding-bottom: 100px;
+    border: 1px solid gray;
+}
+
+.pricing .intro-text{
+    text-align: center;
+    margin-top: 110px;
+}
+
+.pricing .intro-text h4{
+    font-size: 15px;
+    color:#3c31df;
+}
+
+.pricing .intro-text h1{
+    font-size: 40px;
+    margin-top:40px;
+    font-weight: bold;
+}
+
+.pricing .intro-text p{
+    margin-top: 20px;
+    color: gray;
+    font-size: 17px;
+    margin-bottom: 35px;
+}
+
+.pricing .offers .single-offer{
+    margin-top: 100px;
+    background-color: #252728;
+    padding-top: 60px;
+    transition: 1s;
+    padding-bottom: 40px;
+    border: 2px solid gray;
+}
+
+.pricing .offers .single-offer:hover{
+    background-color: #530082;
+    margin-top: -5px;
+}
+
+
+.pricing .offers h2{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.pricing .offers p{
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+
+.pricing .offers ul li{
+    display: inline-block;
+    color: white;
+}
+
+.pricing .offers ul{
+    text-align: center;
+    margin-right: 35px;
+}
+
+.pricing .offers .offer-services ul li{
+    display: block;
+    text-align: left;
+    margin-left: 45px;
+    margin-top: 20px;
+    color: white;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+
+.pricing .offers .offer-services .button{
+    text-align: center;
+    background-color: #3c31df;
+    display: inline-block;
+    margin-left: 105px;
+    margin-top: 15px;
+    padding: 5px;
+    transition: 0.2s;
+}
+
+.pricing .offers .offer-services .button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+}
+
+.pricing .offers .offer-services .button:hover{
+    background-color: #530082;
+}
+
+.focus{
+    margin-top: 270px;
+    text-align: center;
+    background-image: url('background\ picture\ waves.jpg');
+    background-size: cover;
+    padding-top: 110px;
+    padding-bottom: 120px;
+}
+
+.focus h1:before{
+    content: "";
+    background-color: white;
+    width: 7px;
+    height: 80px;
+    display: inline-block;
+    margin-right: 200px;
+}
+
+.focus h1:after{
+    content: "";
+    background-color: white;
+    width: 7px;
+    height: 80px;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.focus h1{
+    margin-top: 25px;
+    font-size: 35px;
+    color: white;
+}
+
+.focus h4{
+    margin-top: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+.focus .cta-button{
+    margin-top: 60px;
+}
+
+.focus .cta-button a{
+    text-decoration: none;
+    border: 2px solid white;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+.focus .cta-button a:hover{
+    background-color: #5923ef;
+}
+
+.footer{
+    margin-top: 110px;
+}
+
+.footer img{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.footer ul li{
+    margin-left: 31px;
+    color: gray;
+    list-style-type: square;
+}
+
+.footer .products h4{
+    font-size: 17px;
+    margin-left: 43px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+}
+
+.footer .products h4:before{
+    content: "";
+    height: 10px;
+    width: 10px;
+    background-color: #3756f5;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 1px;
+}
+
+.footer .products ul li{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.footer .products ul{
+    margin-top: 25px;
+}
+
+.footer .follow-us h4{
+    font-size: 17px;
+    margin-left: 43px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 10px;
+}
+
+.footer .follow-us h4:before{
+    content: "";
+    height: 10px;
+    width: 10px;
+    background-color: #3756f5;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 1px;
+}
+
+.lower-footer{
+    margin-top: 130px;
+    background-color: #111618;
+    padding-top: 40px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}
+
+.lower-footer p{
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+}
+
+.lower-footer p a{
+    text-decoration: none;
+}
+
+.lower-footer ul li{
+    display: inline-block;
+    font-size: 14px;
+}
+
+.lower-footer ul li a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: gray;
+    font-weight: bold;
+}
